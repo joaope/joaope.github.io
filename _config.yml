@@ -1,1 +1,17 @@
+title: Square Brackets
+email: joaope@gmail.com
+description: >
+  Let's do this!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: joaope
+github_username:  joaope
+repository: joaope/joaope.github.io
+
+markdown: kramdown
 theme: jekyll-theme-leap-day
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
